@@ -351,6 +351,7 @@
         <section class="content">
           <!-- Small boxes (Stat box) -->
           <div>
+            <?php echo @$pesan; ?>
             <?php echo $output; ?>
           </div>
 
